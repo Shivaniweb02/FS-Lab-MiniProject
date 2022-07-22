@@ -1,7 +1,7 @@
 # FS-Lab-MiniProject
 Topic :
 
-                        EMPLOYEE LEAVE MANAGEMENT SYSTEM.
+                                                                     EMPLOYEE LEAVE MANAGEMENT SYSTEM.
 
 • This FILE STRUCTURES LAB mini-project in which we have used the concept of Hashing. 
 
